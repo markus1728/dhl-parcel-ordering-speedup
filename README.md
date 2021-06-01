@@ -21,5 +21,5 @@ Deposit the sender's address in the init-method.
 ```
 
 The user can insert the receiver's address and click the desired parcel-form. 
-Afterwards the program navigates through the DHL-Websites, clicks the relevant buttons and and fills out the necessary fields.
-In the end the user can confirm and buy his order with one click. 
+Afterwards the program navigates through the DHL-Websites, clicks the relevant buttons and fills out the necessary fields.
+In the end the user can confirm his order with one click. 
